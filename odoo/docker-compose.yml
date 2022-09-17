@@ -1,0 +1,6 @@
+version: '2'
+services:
+  odoo:
+    image: odoo:15
+    ports:
+      - "8069:8069"

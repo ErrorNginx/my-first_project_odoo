@@ -1,0 +1,5 @@
+<odoo>
+    <data>
+        <menuitem id="gawean_root" name="Gawean" sequence="0"/>
+    </data>
+</odoo>
